@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**Don't forget to assign:**
+* Project
+* Milestone (if any)
+
 **Environment:** dev|prod
 
 ## Actual Behaviour

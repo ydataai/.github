@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**Don't forget to assign:**
+* Project
+* Milestone (if any)
+
 ## Description
 A clear and concise description of the purpose of this task.
 

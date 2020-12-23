@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**Don't forget to assign:**
+* Project
+* Milestone (if any)
+
 ## Description of the feature
 * A clear and concise description of the business idea
 * Helpful documentation
