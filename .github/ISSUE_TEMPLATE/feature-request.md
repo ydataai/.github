@@ -26,4 +26,3 @@ Links to other tasks that may depend or be dependent of this one.
 ## Additional context
 * Link to notion, if any
 * Screenshots for the UI
-Add any other context or screenshots about the feature request here.
