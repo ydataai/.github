@@ -1,5 +1,5 @@
 ---
-name: Bug
+name: Fix
 about: For when something is there, but doesn't work how it should.
 
 ---

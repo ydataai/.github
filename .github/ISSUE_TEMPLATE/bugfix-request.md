@@ -1,27 +1,30 @@
 ---
-name: Fix request
+name: Fix
 about: Describe the bug to be fixed
 title: 'fix: <title for the bug>'
-labels: bug
+labels: bug fix
 assignees: ''
 
 ---
 
 **Environment:** dev|prod
 
-**Actual Behaviour**
+## Actual Behaviour
 A clear and concise description of what the bug is.
 
-**Expected behaviour**
+## Expected behaviour
 A clear and concise description of what you expected to happen.
 
-**Steps To Reproduce**
+## Steps To Reproduce
 An ordered list of the steps to reproduce the bug
 
-**Screenshots**
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
-**Additional context**
+## Dependencies
+Links to other tasks that may depend or be dependent of this one.
+
+## Additional context
 * Browser being used
 * Info used to reproduce
 * Credentials or userid
