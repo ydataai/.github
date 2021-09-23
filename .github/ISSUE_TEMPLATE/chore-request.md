@@ -2,7 +2,7 @@
 name: Chore
 about: Describe what needs to be changed
 title: 'chore: <title of the task>'
-labels: ''
+labels: chore
 assignees: ''
 
 ---

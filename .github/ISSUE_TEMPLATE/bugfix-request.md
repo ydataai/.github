@@ -1,8 +1,8 @@
 ---
-name: Fix
+name: Bug fix
 about: Describe the bug to be fixed
 title: 'fix: <title for the bug>'
-labels: bug fix
+labels: fix
 assignees: ''
 
 ---
