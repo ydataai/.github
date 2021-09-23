@@ -2,7 +2,7 @@
 name: Feature
 about: Describe the task derived from a business request
 title: 'feat: <title>'
-labels: feature
+labels: feat
 assignees: ''
 
 ---
