@@ -1,6 +1,4 @@
-![banner_ydata](img/banner_ydata.png)
-<!-- ![banner_ydata](https://raw.githubusercontent.com/ydataai/.github/main/profile/img/banner_ydata.png) -->
-
+![banner_ydata](https://assets.ydata.ai/banner_ydata.png)
 
 [![YData.ai](https://img.shields.io/badge/ydata.ai-12100E?style=for-the-badge&logoColor=white)](https://ydata.ai)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/ydata-ai)
@@ -14,7 +12,8 @@
 [![YData Academy](https://img.shields.io/badge/YData%20Academy-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/ydataai/academy)
 
 
-<a href="https://datacentricai.community"><img height="60" src="https://raw.githubusercontent.com/Data-Centric-AI-Community/.github/main/profile/img/ydata_nbg.png"/></a>
+<a href="https://ydata.ai"><img height="60" src="https://assets.ydata.ai/logo-red-nobg.svg"/></a>
+
 
 ## Welcome to YData
 **Our mission is to help data science teams access and understand their data assets, and produce quality data to sucessfully deploy machine learning models.**
@@ -31,5 +30,5 @@ We have a growing community of data scientists on [our Discord Server](http://di
 You can also find all about our montly events and data initiatives on our [newsletter](https://datacentricai.community/#newsletter) or reach us at developers@ydata.ai.
 
 
-![footer_ydata](img/footer-ydata.png)
-<!-- ![footer_ydata](https://raw.githubusercontent.com/ydataai/.github/main/profile/img/footer-ydata.png)-->
+![footer_ydata](https://assets.ydata.ai/dcai/footer.png)
+
