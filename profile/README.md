@@ -1,4 +1,4 @@
-![banner_ydata](https://assets.ydata.ai/banner_ydata.png)
+![banner_ydata](https://assets.ydata.ai/banner_ydata_small.png)
 
 [![YData.ai](https://img.shields.io/badge/ydata.ai-12100E?style=for-the-badge&logoColor=white)](https://ydata.ai)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/ydata-ai)
